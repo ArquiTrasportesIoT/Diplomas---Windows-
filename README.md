@@ -1,7 +1,7 @@
 # Diplomas---Windows-
 Mis logros de Microsoft azure## 
 🏆 Mi Primer Logro
-![Mi diploma](Descripción de la informática en la nube.jpg)
+![Mi diploma](Descripción de la informática en la nube.png)
 Defina la informática en la nube.
 
 Describir el modelo de responsabilidad compartida.
