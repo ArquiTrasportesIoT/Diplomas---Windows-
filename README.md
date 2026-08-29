@@ -3,7 +3,7 @@
 Mis logros de Microsoft Azure 🏆
 
 ## Mi Primer Logro
-![diploma-azure-nube](diploma-azure-nube.png)
+![diploma-azure-nube](azure-dundamentos.png)
 
 **Defina la informática en la nube**
 - Modelo de responsabilidad compartida
