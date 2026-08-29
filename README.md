@@ -4,8 +4,6 @@ Mis logros de Microsoft Azure 🏆
 ## Mi Primer Logro
 Definir la informática en la nube
 
-![Diploma Azure](azure-fundamentos.png)
-
 ### Lo que aprendí:
 - Modelo de responsabilidad compartida
 - Modelos de nube: pública, privada e híbrida
