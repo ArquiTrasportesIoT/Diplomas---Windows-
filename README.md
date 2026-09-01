@@ -11,3 +11,15 @@ Definir la informática en la nube
 - Casos de uso para cada modelo
 - Modelo basado en consumo
 - Modelos de precios de la nube
+
+
+### Mi segundo logro 
+Describir las ventajas de la nube 
+![Servicios de la nube](servicios%20de%20la%20nube.png)
+
+### Lo que aprendi:
+- Describir las ventajas de la alta              disponibilidad y escalabilidad en la nube.
+- Describir las ventajas de la confiabilidad y   la previsibilidad en la nube.
+- Describir las ventajas de la seguridad y la    gobernanza en la nube.
+- Describir las ventajas de la capacidad de      administración en la nube.
+- Describir las consideraciones y ventajas de    sostenibilidad en la nube.
