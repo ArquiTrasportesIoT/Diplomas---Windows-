@@ -23,3 +23,15 @@ Describir las ventajas de la nube
 - Describir las ventajas de la seguridad y la    gobernanza en la nube.
 - Describir las ventajas de la capacidad de      administración en la nube.
 - Describir las consideraciones y ventajas de    sostenibilidad en la nube.
+
+### mi tercer logro
+tipos de servicios de la nube
+![servicios de la nube](Diploma-1.png)
+.(Diploma-1.png)
+
+## Lo que aprendi :
+-Describir la infraestructura como servicio (IaaS).
+-Describir la plataforma como servicio (Paas).
+-Describir el software como servicio (SaaS).
+-Identificar los casos de uso adecuados para cada servicio en la nube (IaaS, PaaS, SaaS).
+
