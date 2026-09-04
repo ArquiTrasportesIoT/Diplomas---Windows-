@@ -26,8 +26,7 @@ Describir las ventajas de la nube
 
 ### mi tercer logro
 tipos de servicios de la nube
-![servicios de la nube](Diploma-1.png)
-.(Diploma-1.png)
+![servicios de la nube](diploma-1.png)
 
 ## Lo que aprendi :
 -Describir la infraestructura como servicio (IaaS).
